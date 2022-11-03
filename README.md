@@ -6,7 +6,7 @@
 
 ### Misceláneos
 
-- Elegí aviónica por porgramación
+- Elegí aviónica por programación
 - Buscando diferentes lenguajes.
 - Cofee Best Drink
 >"Gravy is a beverage. Prove me Wrong"
