@@ -1,8 +1,8 @@
 ### JuanIgnacioTorres
 
 + _Nombre_: Torres Juan Ignacio
-+ _Curso_: 5to 1ra AV
-+ _Edad_: 16
++ _Curso_: 6to 1ra AV
++ _Edad_: 17
 
 ### Misceláneos
 
